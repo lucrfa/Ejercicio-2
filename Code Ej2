@@ -1,0 +1,12 @@
+mkdir libro
+cd libro
+cat >indice.txt
+Hola
+git init
+Initialized empty Git repository in C:/Users/lucasv.crifar/libro/.git/
+ls -la
+total 21
+drwxr-xr-x 1 lucasv.crifar 1049089 0 Jan 23 09:47 ./
+drwxr-xr-x 1 lucasv.crifar 1049089 0 Jan 23 09:46 ../
+drwxr-xr-x 1 lucasv.crifar 1049089 0 Jan 23 09:47 .git/
+-rw-r--r-- 1 lucasv.crifar 1049089 4 Jan 23 09:47 indice.txt
